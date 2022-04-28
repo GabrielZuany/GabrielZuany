@@ -1,6 +1,6 @@
 ### Olá! Gabriel aqui ;)
 
-- 🌱 Estudando Linguagem C e versionamento de código (Git)
+- 🌱 Estudando...
 - 📫 Contate-me no email: gabrielzuanyduartevargas@gmail.com
 
 <div align="center">
@@ -10,8 +10,8 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="GZ-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="GZ-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="GZ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="GZ-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="GZ-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
   
   ##
