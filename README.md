@@ -1,23 +1,15 @@
-### Olá! Gabriel aqui ;)
+<h1 align="center">Hi 👋, I'm Gabriel Zuany!</h1>
+<h3 align="center">A passionate to learn new technologies about Data Science</h3>
 
-- 🌱 Estudando...
-- 📫 Contate-me no email: gabrielzuanyduartevargas@gmail.com
+- 🔭 I’m currently working on [Price Comparison](https://github.com/GabrielZuany/Python/tree/master/Projects/PriceComparison)
 
-<div align="center">
-  <a href="https://github.com/GabrielZuany">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielZuany&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielZuany&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="GZ-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="GZ-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="GZ-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
-  
-  ##
-  
-  <div>
-  <a href = "mailto:gabrielzuanyduartevargas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-  
+- 🌱 I’m currently learning **Python, Web scraping and R skills for data analysis.**
+
+- 📫 How to reach me **gabrielzuanyduartevargas@gmail.com**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielzuany&show_icons=true&locale=en&layout=compact" alt="gabrielzuany" /></p>
