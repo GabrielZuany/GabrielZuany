@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Zuany!</h1>
-<h3 align="center">A passionate to learn new technologies about Data Science</h3>
+<h3 align="center">A passionate to learn new technologies!</h3>
 
 
 - 🔭 I’m currently working on [Price Comparison](https://github.com/GabrielZuany/Python/tree/master/Projects/PriceComparison)
