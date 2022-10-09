@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Price Comparison](https://github.com/GabrielZuany/Python/tree/master/Projects/PriceComparison)
 
-- 🌱 I’m currently learning **Python, Web scraping and R skills for data analysis.**
+- 🌱 I’m currently learning **Process automation with Python.**
 
 - 📫 How to reach me **gabrielzuanyduartevargas@gmail.com**
 
