@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Process automation with Python.**
 
-- 📫 How to reach me **gabrielzuanyduartevargas@gmail.com**
+- 📫 How to reach me **gzuanydev@gmail.com**
 
 
 <p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielzuany&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gabrielzuany" /></p>
