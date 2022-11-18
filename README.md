@@ -2,7 +2,7 @@
 <h3 align="center">A passionate to learn new technologies!</h3>
 
 
-- 🔭 I’m currently working on [Price Comparator](https://github.com/GabrielZuany/PriceComparator)<br>( You can also check [More Projects](https://github.com/GabrielZuany/Projects) )
+- 🔭 I’m currently working on [Private Project](https://github.com/GabrielZuany)<br>( You can also check [More Projects](https://github.com/GabrielZuany/Projects) )
 
 - 🌱 I’m currently learning **Process automation with Python.**
 
