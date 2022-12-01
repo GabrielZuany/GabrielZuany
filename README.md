@@ -2,7 +2,7 @@
 <h3 align="center">A passionate to learn new technologies!</h3>
 
 
-- 🔭 My last project was [SpotFES](https://github.com/GabrielZuany/SpotFES)<br>( You can also check [More Projects](https://github.com/GabrielZuany/Projects) )
+- 🔭 My latest project is [SpotFES](https://github.com/GabrielZuany/SpotFES)<br>( You can also check [More Projects](https://github.com/GabrielZuany/Projects) )
 
 - 🌱 I’m currently learning **Process automation with Python.**
 
