@@ -4,8 +4,6 @@
 
 - 🔭 My latest project is [SpotFES (UFES)](https://github.com/GabrielZuany/SpotFES)<br>( You can also check [More Projects](https://github.com/GabrielZuany/Projects) )
 
-- 🌱 I’m currently learning **Process automation with Python.**
-
 - 📫 How to reach me **gzuanydev@gmail.com**
 
 
