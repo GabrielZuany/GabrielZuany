@@ -2,7 +2,7 @@
 <h3 align="center">A passionate to learn new technologies!</h3>
 
 
-- 🔭 My latest project: [2D-Array Manipulation with Linked Lists in C](https://github.com/GabrielZuany/Bidimensional-Array-Manipulation)<br>( You can also check [More Projects](https://github.com/GabrielZuany/Projects) )
+- 🔭 My latest project: [API-Database Integration](https://github.com/GabrielZuany/API_Database_Integration)<br>( You can also check [More Projects](https://github.com/GabrielZuany/Projects) )
 
 - 📫 How to reach me **gzuanydev@gmail.com**
 
