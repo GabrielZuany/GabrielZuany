@@ -2,7 +2,7 @@
 <h3 align="center">A passionate to learn new technologies!</h3>
 
 
-- 🔭 My latest project: [Log Sender to Elasticsearch (Python)](https://github.com/GabrielZuany/ElasticSearchLogs)<br>( You can also check [More Projects](https://github.com/GabrielZuany/Projects) )
+- 🔭 My latest project: [Sensors Data Handler using Kafka and Python](https://github.com/GabrielZuany/SensorsDataHandler)<br>( You can also check [More Projects](https://github.com/GabrielZuany/Projects) )
 
 - 📫 How to reach me **gzuanydev@gmail.com**
 
